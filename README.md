@@ -56,5 +56,5 @@
 |51|[숙녀의 계절,이네요♪](https://l4disk.github.io/refresh_room/detail/51/)|완료|
 |52|[可愛いあの子を探して☆](https://l4disk.github.io/refresh_room/detail/52/)|미번역|
 |53|[ふたりの欲張りプラン](https://l4disk.github.io/refresh_room/detail/53/)|미번역|
-|54|test(https://forshiony.github.io/refresh_room/detail/test/)|미번역|
+|54|test(https://forshiony.github.io/forshiony/detail/test/)|미번역|
 |55|[야옹이 소녀는 물고기 소녀의 꿈을 꾸지 않는다?](https://l4disk.github.io/refresh_room/detail/55/)|완료|
